@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/sainf/vue2-siema#readme",
   "dependencies": {
-    "siema": "m4n1ok/siema"
+    "siema": "manudurgoni/siema"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
